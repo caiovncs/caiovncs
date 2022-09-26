@@ -1,6 +1,6 @@
 ## Oi, Eu sou o Caio Vinícius 💻
 
-​ 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas (1/6)
+​ 👨‍💻 Estudante - Análise e Desenvolvimento de Sistemas (1/6)
 
 ![caiovncs GitHub stats](https://github-readme-stats.vercel.app/api?username=caiovncs&show_icons=true&theme=dark&count_private=true)
 <div style="display: inline_block">
