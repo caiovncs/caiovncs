@@ -1,4 +1,4 @@
-## Oi, Eu sou o Caio Vinícius 💻
+## Caio Vinícius 💻
 
 ​ 👨‍💻 Estudante - Análise e Desenvolvimento de Sistemas (1/6)
 
