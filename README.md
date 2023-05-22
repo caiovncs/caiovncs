@@ -1,8 +1,5 @@
 <h2>Caio Vinícius 💻</h2>
 
-<p> 👨‍💻 - Análise e Desenvolvimento de Sistemas (1/6) </p> 
-<p> 👨‍💻 - Desenvolvedor Front End</p> 
-
 ##
 
 <div align="center">  
