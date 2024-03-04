@@ -29,3 +29,4 @@
 
 <h3>Contato:</h3>
  <a href="https://www.linkedin.com/in/caioviniciusdev/" target="_blank"><img  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+<p>www.caiovinicius.tech</p>
